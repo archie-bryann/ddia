@@ -1,0 +1,3 @@
+- Reliability
+- Scalability
+- Maintainability -> Operability, Simplicity, Evolvability

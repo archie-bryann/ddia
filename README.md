@@ -38,3 +38,4 @@
 - Online transaction processing (OLTP)
 - Online Analytic Processing (OLAP)
 - ![data-warehouse](./images/image-8.png)
+- ![data-warehouse](./images/image-9.png)

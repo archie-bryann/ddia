@@ -28,3 +28,5 @@
 - ![index](./images/image-3.png)
 
 - ![compaction](./images/image-4.png)
+
+- ![append-only](./images/image-5.png)

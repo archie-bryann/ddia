@@ -23,3 +23,6 @@
 - ![declarative](./image.png)
 
 - ![triple-stores](./image-2.png)
+
+- Relational Model
+- Non-relational "NoSQL" datastores -> Document databases, Graph databases

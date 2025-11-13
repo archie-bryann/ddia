@@ -18,11 +18,13 @@
 - SQL is a declarative query languages (as opposed to being imperative code)
 - Many used programming languages are imperative
 
-- ![Declarative vs Imperative](./image.png)
+- ![Declarative vs Imperative](./images/image.png)
 
-- ![triple-stores](./image-2.png)
+- ![triple-stores](./images/image-2.png)
 
 - Relational Model
 - Non-relational "NoSQL" datastores -> Document databases, Graph databases
 
-- ![index](./image-3.png)
+- ![index](./images/image-3.png)
+
+- ![compaction](./images/image-4.png)

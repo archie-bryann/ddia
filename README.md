@@ -18,26 +18,26 @@
 - SQL is a declarative query languages (as opposed to being imperative code)
 - Many used programming languages are imperative
 
-- ![Declarative vs Imperative](./images/image.png)
+![Declarative vs Imperative](./images/image.png)
 
-- ![triple-stores](./images/image-2.png)
+![triple-stores](./images/image-2.png)
 
 - Relational Model
 - Non-relational "NoSQL" datastores -> Document databases, Graph databases
 
-- ![index](./images/image-3.png)
+![index](./images/image-3.png)
 
-- ![compaction](./images/image-4.png)
+![compaction](./images/image-4.png)
 
-- ![append-only](./images/image-5.png)
+![append-only](./images/image-5.png)
 
-- ![sstables-b-trees](./images/image-6.png)
+![sstables-b-trees](./images/image-6.png)
 
-- ![b-trees](./images/image-7.png)
+![b-trees](./images/image-7.png)
 
 - Online transaction processing (OLTP)
 - Online Analytic Processing (OLAP)
-- ![data-warehouse](./images/image-8.png)
-- ![data-warehouse](./images/image-9.png)
+  ![data-warehouse](./images/image-8.png)
+  ![data-warehouse](./images/image-9.png)
 
-- ![column-oriented storage](./images/image-10.png)
+![column-oriented storage](./images/image-10.png)

@@ -18,4 +18,8 @@
 - SQL is a declarative query languages (as opposed to being imperative code)
 - Many used programming languages are imperative
 
-- Declarative vs Imperative: ![declarative](./image.png)
+- Declarative vs Imperative:
+
+- ![declarative](./image.png)
+
+- ![triple-stores](./image-2.png)

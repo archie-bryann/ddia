@@ -1,10 +1,10 @@
 ##
 
-1. Reliability
+Reliability
 
-2. Scalability
+Scalability
 
-3. Maintainability -> Operability, Simplicity, Evolvability
+Maintainability -> Operability, Simplicity, Evolvability
 
 ##
 
@@ -28,9 +28,9 @@ Many used programming languages are imperative
 
 ![triple-stores](./images/image-2.png)
 
-1. Relational Model
+Relational Model
 
-2. Non-relational "NoSQL" datastores -> Document databases, Graph databases
+Non-relational "NoSQL" datastores -> Document databases, Graph databases
 
 ##
 

@@ -30,3 +30,5 @@
 - ![compaction](./images/image-4.png)
 
 - ![append-only](./images/image-5.png)
+
+- ![sstables-b-trees](./images/image-6.png)

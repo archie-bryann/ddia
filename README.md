@@ -32,3 +32,5 @@
 - ![append-only](./images/image-5.png)
 
 - ![sstables-b-trees](./images/image-6.png)
+
+- ![b-trees](./images/image-7.png)

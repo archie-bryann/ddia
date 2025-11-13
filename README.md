@@ -34,3 +34,7 @@
 - ![sstables-b-trees](./images/image-6.png)
 
 - ![b-trees](./images/image-7.png)
+
+- Online transaction processing (OLTP)
+- Online Analytic Processing (OLAP)
+- ![data-warehouse](./images/image-8.png)

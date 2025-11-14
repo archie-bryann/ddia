@@ -71,3 +71,7 @@ Remote Procedure Call (RPC)
 ![data-flow-through-databases](./images/image-15.png)
 
 ![data-flow-through-databases](./images/image-16.png)
+
+Semi-synchronous configuration (1 Master, 1 Synchronous Follower, 1 Asynchronous Follower)
+
+![data-flow-through-databases](./images/image-17.png)

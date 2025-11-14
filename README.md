@@ -60,3 +60,6 @@ Online Analytic Processing (OLAP)
 ![compatibility](./images/image-12.jpg)
 
 ![data-flow-through-databases](./images/image-11.png)
+
+REST (Representational State Transfer)
+SOAP (Simple Object Access Protocol)

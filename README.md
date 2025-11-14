@@ -54,3 +54,5 @@ Online Analytic Processing (OLAP)
 ![data-warehouse](./images/image-9.png)
 
 ![column-oriented storage](./images/image-10.png)
+
+![data-flow-through-databases](./images/image-11.png)

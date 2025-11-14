@@ -69,3 +69,5 @@ Remote Procedure Call (RPC)
 
 ![data-flow-through-databases](./images/image-14.png)
 ![data-flow-through-databases](./images/image-15.png)
+
+![data-flow-through-databases](./images/image-16.png)

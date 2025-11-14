@@ -63,3 +63,4 @@ Online Analytic Processing (OLAP)
 
 REST (Representational State Transfer)
 SOAP (Simple Object Access Protocol)
+RPC (Remote Procedure Call)

@@ -89,3 +89,5 @@ Setting up New Followers
 Write-ahead log (WAL) shipping - PostgreSQL, Oracle
 Logical (row-based) log replication
 Trigger-based replication
+
+![eventual-consistency--the-replication-lag](./images/image-20.png)

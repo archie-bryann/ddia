@@ -103,3 +103,7 @@ Trigger-based replication
 ![conflict-resolution](./images/image-25.png)
 
 ![replication-topologies](./images/image-26.png)
+
+![leaderless-replication](./images/image-27.png)
+
+![partitioning](./images/image-28.png)

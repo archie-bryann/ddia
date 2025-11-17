@@ -97,3 +97,5 @@ Trigger-based replication
 ![multi-leader-replication](./images/image-22.png)
 
 ![multi-leader-replication](./images/image-23.png)
+
+![async](./images/image-24.png)

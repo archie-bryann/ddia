@@ -113,3 +113,4 @@ Trigger-based replication
 ![partitioning-by-document](./images/image-29.png)
 
 ![partitioning-by-term](./images/image-30.png)
+![partitioning-by-term](./images/image-31.png)

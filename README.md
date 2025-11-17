@@ -93,3 +93,7 @@ Trigger-based replication
 ![eventual-consistency--the-replication-lag](./images/image-20.png)
 
 ![monotonic-reads](./images/image-21.png)
+
+![multi-leader-replication](./images/image-22.png)
+
+![multi-leader-replication](./images/image-23.png)

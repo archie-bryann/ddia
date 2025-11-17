@@ -100,4 +100,6 @@ Trigger-based replication
 
 ![async](./images/image-24.png)
 
-![conflict-resolution](./images/image-24.png)
+![conflict-resolution](./images/image-25.png)
+
+![replication-topologies](./images/image-26.png)

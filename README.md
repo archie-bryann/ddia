@@ -106,4 +106,10 @@ Trigger-based replication
 
 ![leaderless-replication](./images/image-27.png)
 
+###
+
 ![partitioning](./images/image-28.png)
+
+![partitioning-by-document](./images/image-29.png)
+
+![partitioning-by-term](./images/image-30.png)

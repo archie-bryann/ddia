@@ -139,3 +139,9 @@ BASE (Basically Available, Soft state, Eventual Consistency) - Systems that do n
 Multi-Version Concurrency Control (MVCC)
 
 Last Write Wins (LWW)
+
+###
+
+Use Queues to avoid concurrency
+
+![queues-to-avoid-concurrency](./images/image-40.png)

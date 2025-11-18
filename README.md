@@ -135,3 +135,7 @@ BASE (Basically Available, Soft state, Eventual Consistency) - Systems that do n
 ![dirty-reads](./images/image-38.png)
 
 ![dirty-writes](./images/image-39.png)
+
+Multi-Version Concurrency Control (MVCC)
+
+Last Write Wins (LWW)

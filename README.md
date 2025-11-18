@@ -116,3 +116,7 @@ Trigger-based replication
 ![partitioning-by-term](./images/image-31.png)
 
 ![rebalancing](./images/image-32.png)
+
+###
+
+![rebalancing](./images/image-33.png)

@@ -119,4 +119,9 @@ Trigger-based replication
 
 ###
 
-![rebalancing](./images/image-33.png)
+![transactions](./images/image-33.png)
+
+![r](./images/image-34.png)
+
+ACID (Atomicity, Consistency, Isolation, Durability)
+BASE (Basically Available, Soft state, Eventual Consistency) - Systems that do not meet ACID criteria

@@ -131,3 +131,7 @@ BASE (Basically Available, Soft state, Eventual Consistency) - Systems that do n
 ![retrying-aborted-errors](./images/image-36.png)
 
 ![concurrency](./images/image-37.png)
+
+![dirty-reads](./images/image-38.png)
+
+![dirty-writes](./images/image-39.png)

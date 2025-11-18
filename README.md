@@ -145,3 +145,9 @@ Last Write Wins (LWW)
 Use Queues to avoid concurrency
 
 ![queues-to-avoid-concurrency](./images/image-40.png)
+
+###
+
+![deterministic](./images/image-41.png)
+
+![non-deterministic](./images/image-41.png)

@@ -125,3 +125,5 @@ Trigger-based replication
 
 ACID (Atomicity, Consistency, Isolation, Durability)
 BASE (Basically Available, Soft state, Eventual Consistency) - Systems that do not meet ACID criteria
+
+![isolation](./images/image-35.png)

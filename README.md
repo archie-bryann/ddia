@@ -159,3 +159,11 @@ Network Time Protocol (NTP)
 ![smearing](./images/image-43.png)
 
 Precision Time Protocol (PTP)
+
+Java Virtual Machine (JVM)
+
+Garbage Collector (GC)
+
+Real-Time Operating System (RTOS)
+
+![byzantine-fault-tolerant](./images/image-44.png)

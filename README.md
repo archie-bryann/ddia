@@ -180,3 +180,5 @@ Consistency Models:
 Oracle Real Application Clusters (RAC)
 
 **Total order broadcast** is usually described as a protocol for exchanging messages between nodes.
+
+Two-Phase Commit (2PC) Algorithm

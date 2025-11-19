@@ -150,4 +150,4 @@ Use Queues to avoid concurrency
 
 ![deterministic](./images/image-41.png)
 
-![non-deterministic](./images/image-41.png)
+![non-deterministic](./images/image-42.png)

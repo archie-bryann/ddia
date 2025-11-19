@@ -182,3 +182,7 @@ Oracle Real Application Clusters (RAC)
 **Total order broadcast** is usually described as a protocol for exchanging messages between nodes.
 
 Two-Phase Commit (2PC) Algorithm
+
+Two-phase commit is an algorithm for achieving atomic transaction commit across multiple nodes—i.e., to ensure that either all nodes commit or all nodes abort.
+
+![transaction-manager](./images/image-45.png)

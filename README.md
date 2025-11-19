@@ -167,3 +167,6 @@ Garbage Collector (GC)
 Real-Time Operating System (RTOS)
 
 ![byzantine-fault-tolerant](./images/image-44.png)
+
+Safety means "nothing bad ever happens"
+Liveness means "something good eventually happens"

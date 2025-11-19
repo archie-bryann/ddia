@@ -151,3 +151,11 @@ Use Queues to avoid concurrency
 ![deterministic](./images/image-41.png)
 
 ![non-deterministic](./images/image-42.png)
+
+Remote Direct Memory Access (RDMA)
+
+Network Time Protocol (NTP)
+
+![smearing](./images/image-43.png)
+
+Precision Time Protocol (PTP)

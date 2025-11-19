@@ -170,3 +170,13 @@ Real-Time Operating System (RTOS)
 
 Safety means "nothing bad ever happens"
 Liveness means "something good eventually happens"
+
+###
+
+Consistency Models:
+
+- Linearizability (Atomic Consistency, Strong Consistency, Immediate Consistency, External Consistency) - The basic idea behind linearizability is simple: to make a system appear as if there is only a single copy of the data.
+
+Oracle Real Application Clusters (RAC)
+
+**Total order broadcast** is usually described as a protocol for exchanging messages between nodes.

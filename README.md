@@ -192,3 +192,7 @@ Two-phase commit is an algorithm for achieving atomic transaction commit across 
 ![consensus](./images/image-47.png)
 
 ![quote](./images/image-48.png)
+
+Hadoop Distributed File System (HDFS)
+
+![hdfs](./images/image-49.png)

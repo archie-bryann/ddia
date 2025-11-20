@@ -221,3 +221,6 @@ Domain-Driven Design (DDD)
 ![event-sourcing](./images/image-55.png)
 
 ![limitations-of-immutability](./images/image-56.png)
+Deletion is more a matter of “making it harder to retrieve the data” than actually “making it impossible to retrieve the data.”
+
+![operator-or-job](./images/image-56.png)

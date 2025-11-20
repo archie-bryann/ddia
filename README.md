@@ -190,3 +190,5 @@ Two-phase commit is an algorithm for achieving atomic transaction commit across 
 ![distributed-transactions](./images/image-46.png)
 
 ![consensus](./images/image-47.png)
+
+![quote](./images/image-48.png)

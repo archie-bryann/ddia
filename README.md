@@ -224,3 +224,6 @@ Domain-Driven Design (DDD)
 Deletion is more a matter of “making it harder to retrieve the data” than actually “making it impossible to retrieve the data.”
 
 ![operator-or-job](./images/image-56.png)
+
+Complex event processing (CEP)
+![cep](./images/image-56.png)

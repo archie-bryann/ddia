@@ -1,5 +1,9 @@
 ##
 
+Notes from Designing Data-Intensive Applications
+
+##
+
 Reliability
 
 Scalability
@@ -206,3 +210,7 @@ User Datagram Protocol (UDP)
 ![udp](./images/image-51.png)
 
 ![log-based message brokers](./images/image-52.png)
+
+Change Data Capture (CDC)
+
+![cdc](./images/image-53.png)

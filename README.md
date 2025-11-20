@@ -219,3 +219,5 @@ Change Data Capture (CDC)
 Domain-Driven Design (DDD)
 
 ![event-sourcing](./images/image-55.png)
+
+![limitations-of-immutability](./images/image-56.png)

@@ -204,3 +204,5 @@ Transmission Control Protocol (TCP)
 User Datagram Protocol (UDP)
 
 ![udp](./images/image-51.png)
+
+![log-based message brokers](./images/image-52.png)

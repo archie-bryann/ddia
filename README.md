@@ -226,4 +226,5 @@ Deletion is more a matter of “making it harder to retrieve the data” than ac
 ![operator-or-job](./images/image-56.png)
 
 Complex event processing (CEP)
+
 ![cep](./images/image-56.png)

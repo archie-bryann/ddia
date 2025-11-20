@@ -59,7 +59,7 @@ Online Analytic Processing (OLAP)
 
 ![column-oriented storage](./images/image-10.png)
 
-![twitter](./images/image-13.png)
+![twitter](./images/image-13.jpg)
 
 ![compatibility](./images/image-12.jpg)
 

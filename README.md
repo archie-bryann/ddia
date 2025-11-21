@@ -229,3 +229,12 @@ Deletion is more a matter of “making it harder to retrieve the data” than ac
 Complex event processing (CEP)
 
 ![cep](./images/image-56.png)
+
+Message-Passing Dataflow (alternative to RPC) is a mechanism for services to communicate, as used for
+example in the actor model.
+
+![event-time](./images/image-59.png)
+
+Types of Windows (streams): Tumbling window, Hopping window, Sliding window, Session window.
+
+Stream Joins: Stream-Stream joins, Stream-Table Joins, Table-Table Joins.

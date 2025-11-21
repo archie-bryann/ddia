@@ -242,3 +242,10 @@ Stream Joins: Stream-Stream Joins (window join), Stream-Table Joins (stream enri
 Slowly Changing Dimension (SCD)
 
 An idempotent operation is one that you can perform multiple times, and it has the same effect as if you performed it only once.
+
+The lambda architecture is a data processing model that combines two parallel data pipelines: a batch layer (batch processing) and a speed layer (stream processing), to handle large amounts of data.
+
+![event-time](./images/image-60.png)
+
+Federated database: unifying reads
+Unbundled databases: unifying writes

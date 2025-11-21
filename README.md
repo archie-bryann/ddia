@@ -251,3 +251,7 @@ Federated database: unifying reads
 Unbundled databases: unifying writes
 
 Service-Oriented Architecture (SOA)
+
+ACID transactions usually provide both timeliness (e.g., linearizability) and integrity (e.g., atomic commit) guarantees
+
+![auditability](./images/image-61.png)

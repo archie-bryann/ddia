@@ -249,3 +249,5 @@ The lambda architecture is a data processing model that combines two parallel da
 
 Federated database: unifying reads
 Unbundled databases: unifying writes
+
+Service-Oriented Architecture (SOA)

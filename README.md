@@ -237,4 +237,8 @@ example in the actor model.
 
 Types of Windows (streams): Tumbling window, Hopping window, Sliding window, Session window.
 
-Stream Joins: Stream-Stream joins, Stream-Table Joins, Table-Table Joins.
+Stream Joins: Stream-Stream Joins (window join), Stream-Table Joins (stream enrichment), Table-Table Joins (materialized view maintenance).
+
+Slowly Changing Dimension (SCD)
+
+An idempotent operation is one that you can perform multiple times, and it has the same effect as if you performed it only once.
